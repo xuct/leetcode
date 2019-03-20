@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/14012511/54658034-94368a00-4b06-11e9-9db2-f3f0bdbb221f.png"  style="width: auto; height: 200px;" /> 
+<img src="https://user-images.githubusercontent.com/14012511/54658034-94368a00-4b06-11e9-9db2-f3f0bdbb221f.png"  width="200px" /> 
 </p>
 
 <p align="center">
@@ -48,4 +48,6 @@
 
 ##### Wanna get a job?
 The repo author work at  <a href="https://www.pinduoduo.com">pinduoduo.com</a>, we need front-end senior developer and Java senior developer, Intern is also welcome ! My email is chenleicoder@gmail.com , just send your resume to me now !!
-<a href="https://www.pinduoduo.com/social.html"><img src="https://cdn.pinduoduo.com/assets/img/pdd_logo_v3.png"  style="margin-top: 10px" /></a>
+
+
+<a href="https://www.pinduoduo.com/social.html" target="_blank"><img src="https://cdn.pinduoduo.com/assets/img/pdd_logo_v3.png" title="拼多多是一家上市公司，欢迎投简历一起创造美好电商未来"/></a>
